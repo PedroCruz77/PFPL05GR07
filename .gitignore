@@ -1,0 +1,6 @@
+build/
+*.hi
+*.o
+biblioteca
+.dist-newstyle/
+dist-newstyle/
